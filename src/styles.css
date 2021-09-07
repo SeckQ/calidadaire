@@ -124,10 +124,6 @@ table.infoaqitable {
     border: 1px solid #000;
     cursor: pointer;
 }
-@media only screen and (max-width: 1000px)
-table.infoaqitable {
-    width: 98%;
-}
 table.infoaqitable {
     border: 1px solid #888;
     margin: 10x;
